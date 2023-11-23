@@ -1,0 +1,27 @@
+{
+  "width" : 500,
+  "height" : 500,
+  "depth" : 500,
+  "data" : {
+    "url" : "cars.json"
+  },
+  "mark" : "cube",
+  "encoding" : {
+    "x" : {
+      "field" : "Horsepower",
+      "type" : "quantitative"
+    },
+    "y" : {
+      "field" : "Miles_per_Gallon",
+      "type" : "quantitative"
+    },
+    "z" : {
+      "field" : "Displacement",
+      "type" : "quantitative"
+    },
+    "color" : {
+      "field" : "Origin",
+      "type" : "nominal"
+    }
+  }
+}

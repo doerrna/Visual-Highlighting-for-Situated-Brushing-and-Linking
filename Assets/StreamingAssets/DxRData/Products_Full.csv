@@ -1,0 +1,181 @@
+﻿Product,Prefab name,Category,Price (EUR),Calories (kcal),Fat (g),Sugar (g),Protein (g),Carbohydrate (g),Alcohol (%),Lactose (Y/N),Gluten (Y/N),Vegan/Vegetarian/N
+Gut&Guenstig Choco Drink,ChocolatePowder,Baking,2.99,378,3.1,78,4.5,79.9,0,N,N,Vegan
+Dinkel Vollkornmehl dmBio,Flour_Blue,Baking,1.45,353,2.6,1.7,14,64,0,N,N,Vegan
+Gut&Guenstig Weizenmehl Type 405,Flour_Orange,Baking,0.79,340,1,0.3,9.8,70.9,0,N,Y,Vegan
+Belbake Weizenmehl Type 405,Flour_Red,Baking,0.79,341,1,0.4,10,71,0,N,Y,Vegan
+REWE Bio Rohrohrzucker,Sugar_Bag_DaronGreen,Baking,2.79,396,0.5,96.7,0.5,97.4,0,N,N,Vegan
+REWE Beste Wahl Brauner Rohrzucker,Sugar_Bag_DaronOrange,Baking,1.49,400,0,100,0,100,0,N,N,Vegan
+Suedzucker Feinster Ruebenzucker,Sugar_Bag_DaronRed,Baking,1.99,400,0,100,0,100,0,N,N,Vegan
+Gut&Guenstig Feiner Zucker,Sugar_Bag_Pablo,Baking,1.49,400,0,100,0,100,0,N,N,Vegan
+Zucker weiss,Sugar_Box_Daron,Baking,1.49,405,0,99.8,0,99.8,0,N,N,Vegan
+Alnatura Vollrohrohrzucker,Sugar_Box_SusuOrange,Baking,2.89,380,0.5,95,0,95,0,N,N,Vegan
+Alnatura Bio Rohrohrzucker,Sugar_Box_SusuWhite,Baking,2.69,388,0.5,97,0.5,97,0,N,N,Vegan
+ja! Puderzucker Rewe,Sugar_Powder,Baking,0.49,400,0,100,0,100,0,N,N,Vegan
+Grand Marnier Cuvee Louis Alexandre Orangenlikoer,Alcohol_Cognac,Beverages Alcoholic,45.99,318,0,28.3,0,28.3,40,N,N,Vegan
+Gorbatschow Wodka,Alcohol_VodkaBlue,Beverages Alcoholic,12.49,207,0,0,0,0,37.5,N,N,Vegan
+Gorbatschow Wodka,Alcohol_VodkaBlue2,Beverages Alcoholic,12.49,207,0,0,0,0,37.5,N,N,Vegan
+Wodka Trojka Red,Alcohol_VodkaRed,Beverages Alcoholic,14.5,231,0,0,0,0,24,N,N,Vegan
+Wodka Trojka Red,Alcohol_VodkaRed2,Beverages Alcoholic,14.5,231,0,0,0,0,24,N,N,Vegan
+Nikka Taketsuru Pure Malt ,Alcohol_WhiskyRound,Beverages Alcoholic,59.9,244,0,0.11,0,0.11,43,N,Y,Vegan
+Jack Daniel's Old No. 7 Whiskey,Alcohol_WhiskySquare,Beverages Alcoholic,24.7,66,0,0,0,0,40,N,N,Vegan
+Leffe Blonde 6L,BeerKeg_Blond,Beverages Alcoholic,23.99,35,0.01,3.8,0.19,4.8,6.6,N,Y,Vegan
+Oettinger Pils 6L,BeerKeg_Blue,Beverages Alcoholic,10.5,40.4,0.1,0.2,0.5,2.8,4.7,N,Y,Vegan
+Heineken 6L,BeerKeg_Green,Beverages Alcoholic,16.49,42,0,0,0,3.2,5,N,Y,Vegan
+Leffe Blonde,BeerPack_Blond,Beverages Alcoholic,15.43,35,0.01,3.8,0.19,4.8,6.6,N,Y,Vegan
+Oettinger Pils,BeerPack_Blue,Beverages Alcoholic,2.49,40.4,0.1,0.2,0.5,2.8,4.7,N,Y,Vegan
+Becks Pils,BeerPack_Premium,Beverages Alcoholic,4.99,38,0,0.1,0.4,2.2,4.9,N,Y,Vegan
+Leffe Blonde,Beer_Blond,Beverages Alcoholic,1.99,35,0.01,3.8,0.19,4.8,6.6,N,Y,Vegan
+Bier (Berliner Pilsner),Beer_Green,Beverages Alcoholic,2.49,42,0,0.17,0.5,3.12,5,N,Y,Vegan
+Becks Pils,Beer_Green_BK,Beverages Alcoholic,1.19,38,0,0.1,0.4,2.2,4.9,N,Y,Vegan
+Weisswein (Region Rott Hessische Bergstrasse),Wine_GreenBlack,Beverages Alcoholic,6.49,73,0,2.58,0.15,2.6,11.5,N,N,Vegan
+Rotwein leicht (Confidura Merlot Syrah),Wine_GreenRed,Beverages Alcoholic,8.99,68,0,0.57,0.22,2.4,14.5,N,N,Vegan
+Rotwein mittel Qualitaetswein (Ricossa Barolo),Wine_Red,Beverages Alcoholic,23.83,68,0,2.34,0.22,2.4,14,N,N,Vegan
+Apfelsaft Gut&Guenstig,Juice_Apple,Beverages Nonalcoholic,1.82,44,0.1,9.8,0.1,10.2,0,N,N,Vegan
+EDEKA Fruchtliebe Milde Orange,Juice_Orange,Beverages Nonalcoholic,1.49,43,0.2,9,0.7,9,0,N,N,Vegan
+Coca-Cola,Soda_Bottle_Cola,Beverages Nonalcoholic,1.11,42,0,10.6,0,10.6,0,N,N,Vegan
+Orangina Rouge,Soda_Bottle_JusTsistu,Beverages Nonalcoholic,1.3,41,0,9.7,0,9.9,0,N,N,Vegan
+Coca-Cola Zero,Soda_Bottle_Koujeima,Beverages Nonalcoholic,1.11,0,0,0,0.01,0.1,0,N,N,Vegan
+Fanta Orange,Soda_Bottle_Pulp,Beverages Nonalcoholic,1.11,39,0.1,9.4,0.1,9.5,0,N,N,Vegan
+Schwip Schwap,Soda_Bottle_Ropico,Beverages Nonalcoholic,1.05,43,0,10.2,0.1,10.9,0,N,N,Vegan
+Pepsi Cola,Soda_Bottle_SodaPop,Beverages Nonalcoholic,0.95,44,0,10,0,10,0,N,N,Vegan
+Sprite,Soda_Bottle_ZapPop,Beverages Nonalcoholic,1.11,37,0,9.1,0,9.1,0,N,N,Vegan
+Coca-Cola,Soda_Cans_Cola,Beverages Nonalcoholic,7.14,42,0,10.6,0,10.6,0,N,N,Vegan
+Pepsi Cola,Soda_Cans_SodaPop,Beverages Nonalcoholic,4.99,44,0,10,0,10,0,N,N,Vegan
+Sprite,Soda_Cans_ZapSoda,Beverages Nonalcoholic,7.14,37,0,9.1,0,9.1,0,N,N,Vegan
+ViO,Water_Blue,Beverages Nonalcoholic,2.99,0,0,0,0,0,0,N,N,Vegan
+Gut&Guenstig Mineralwasser,Water_Red,Beverages Nonalcoholic,0.19,0,0,0,0,0,0,N,N,Vegan
+Gerolsteiner Mineralwasser Medium,Water_White,Beverages Nonalcoholic,1.5,0,0,0,0,0,0,N,N,Vegan
+Zitronenkuchen Gut&Guenstig,Cake_BagBlue,Bread and Bakery,1.99,449,23.2,31.3,4.8,56.5,0,Y,Y,Vegetarian
+REWE Madeleines,Cake_BagRed,Bread and Bakery,2.19,442,26,26,5.4,46,0,Y,Y,Vegetarian
+Marmorkuchen Gut&Guenstig,Cake_BagWhite,Bread and Bakery,1.29,443,23.9,31.7,4.8,53.6,0,Y,Y,Vegetarian
+Marmorkuchen glutenfrei Dr. Schaer AG,Cake_BoxGrey,Bread and Bakery,3.79,409,19,26,4.8,53,0,N,N,Vegetarian
+Marmorkuchen glutenfrei Poensgen,Cake_BoxRed,Bread and Bakery,4.99,387,19.4,25,4,49.1,0,Y,N,Vegetarian
+Marmorkuchen Dr Oetker,Cake_BoxYellow,Bread and Bakery,2.99,464,25,30,5.6,56,0,Y,Y,Vegetarian
+Golden Toast Butter 500,SlicedBread_Large,Bread and Bakery,1.59,265,3.8,4,8.2,48,0,N,Y,Vegetarian
+Golden Toast Butter 250,SlicedBread_Small,Bread and Bakery,0.79,265,3.8,4,8.2,48,0,N,Y,Vegetarian
+Nestle Nesquik Knusperfruehstueck,Cereals_Chokipik,Breakfast,5.34,113,2.6,6.7,0.8,22.6,0,N,Y,Vegetarian
+Nestle Cookie Crisp,Cereals_CrispyChibi,Breakfast,3.99,388,5,22,6.7,76,0,Y,Y,Vegetarian
+Kelloggs Honey Loops,Cereals_HoneyBees,Breakfast,5,396,4.4,22,9.3,76,0,N,Y,Vegetarian
+Alnatura Schokocreme mit Keks,ChocolateSpread_Brown,Breakfast,3.99,554,34,54,4.6,56,0,Y,Y,Vegetarian
+Nutella,ChocolateSpread_White,Breakfast,4.79,539,30.9,56.3,6.3,57.9,0,Y,N,Vegetarian
+Jacobs Kroenung Kraeftig,Coffee_Black,Breakfast,9.7,1,0,0.1,0.2,0.1,0,N,N,Vegan
+Jacobs Kroenung Entkoffeiniert,Coffee_Blue,Breakfast,9.7,1,0,0.2,0.1,0.2,0,N,N,Vegan
+Jacobs Kroenung Klassisch,Coffee_Pink,Breakfast,9.7,2,0,0.1,0.2,0.3,0,N,N,Vegan
+Imkerhonig Gut&Guenstig,Honey,Breakfast,2.69,302,0,75.1,0.04,75.1,0,N,N,Vegetarian
+EDEKA Feines Fruchtmousse Erdbeer,Jam,Breakfast,1.89,213,0.3,50.3,0.5,50.5,0,N,N,Vegan
+Gut&Guenstig Thunfisch,TinCan_Blue_Small,Canned Food,1.29,107,0.8,0,25,0,0,N,N,N
+Gut&Guenstig Junge Erbsen extra fein,TinCan_Green_Large,Canned Food,0.99,72,0.5,3,5.5,8,0,N,N,Vegan
+Gut&Guenstig Rote Kidneybohnen,TinCan_Red_Medium,Canned Food,1.55,106,0.8,2.5,9.4,13,0,N,N,Vegan
+Ostmann Basilikum 6g,Bag_Organics,Condiments,3.79,244,4,1.7,23,10.1,0,N,N,Vegan
+Ostmann Petersilie 75g,Bag_Organics2,Condiments,3.79,301,1.9,23.9,23.2,36.7,0,N,N,Vegan
+Ostmann Schnittlauch 5g,Bag_Organics3,Condiments,3.6,353,5.9,60.9,11.4,61.5,0,N,N,Vegan
+Brat-Olivenoel Alnatura,Oil_Olive,Condiments,9.99,819,91,0.5,0.5,0.5,0,N,N,Vegan
+EDEKA Bio Natives SonnenblumenÃ¶l,Oil_Sunflower,Condiments,1.59,824,91.6,0,0,0,0,N,N,Vegan
+Ostmann Pfeffer schwarz gemahlen 40G,Pepper,Condiments,2.39,310,3.3,49.4,10.9,52,0,N,N,Vegan
+Gut&Guenstig Tafelsalz feinkoernig,Salt,Condiments,0.29,0,0,0,0,0,0,N,N,Vegan
+Gut&Guenstig Tafelsalz feinkoernig,Salt_1,Condiments,0.29,0,0,0,0,0,0,N,N,Vegan
+Heinz Hot Ketchup,Sauce_HotSauce,Condiments,3.16,107,0.1,22.8,1.2,23.3,0,N,N,Vegan
+Heinz Tomato Ketchup,Sauce_Ketchup,Condiments,3.79,102,0.1,22.8,1.2,23.2,0,N,N,Vegan
+Heinz Mayo Vegan,Sauce_Mayonnaise,Condiments,3.13,686,75,1.5,0,2.5,0,N,N,Vegan
+Kerrygold Original Butter,Butter,Dairy and Eggs,2.99,748,82.5,0.7,0.7,0.7,0,Y,N,Vegetarian
+Gut&Guenstig EMMENTALER,Cheese_Comte,Dairy and Eggs,3.99,377,29,0,29,0,0,Y,N,Vegetarian
+Gut&Guenstig Hirtenkaese 45% Fett i. Tr. 250 g,Cheese_Gruyere,Dairy and Eggs,1.79,256,19.8,1,18,1,0,Y,N,Vegetarian
+Kerrygold Cheddar 48 % Fett,Cheese_Mimolette,Dairy and Eggs,2.99,392,50,0,26,0,0,Y,N,Vegetarian
+EDEKA Bio Mozzarella 45% Fett i. Tr.,Cheese_Mozzarella,Dairy and Eggs,1.35,246,18.5,1,18.9,1,0,Y,N,Vegetarian
+EDEKA Originale Grana Padano gerieben 32% Fett i. Tr.,Cheese_ParmigianoGreen,Dairy and Eggs,1.89,398,29,0,33,0,0,Y,N,Vegetarian
+Giovanni Ferrari Parmigiano Reggiano gerieben,Cheese_ParmigianoRed,Dairy and Eggs,2.19,402,30,0,32,0,0,Y,N,Vegetarian
+Weihenstephan haltbare Milch 15% 1L,Milk_Box,Dairy and Eggs,1.59,47,1.5,4.9,3.5,4.9,0,Y,N,Vegetarian
+Demeter Schrozberger Milchbauern 6x Frische Vollmilch 38%,Milk_BottlePack,Dairy and Eggs,11.94,69,3.8,4.8,3.4,4.8,0,Y,N,Vegetarian
+DANONE Activia Classic Vanille 4x,Yoghurt_Green,Dairy and Eggs,2.69,90,3,11.4,4,11.8,0,Y,N,Vegetarian
+Gut&Guenstig 4x Fruchtjoghurt Erdbeer,Yoghurt_Pink,Dairy and Eggs,1.86,99,2.8,14,2.5,15.1,0,Y,N,Vegetarian
+Danone Activia Classic Natur 4x,Yoghurt_White,Dairy and Eggs,1.99,75,3.5,6,5,6,0,Y,N,Vegetarian
+Gut&Guenstig 12x Eier aus Freilandhaltung,EggBox_12x,Dairy and Eggs,3.29,155,11,1.1,13,1.1,0,N,N,Vegetarian
+Gut&Guenstig 4x Eier aus Freilandhaltung,EggBox_4x,Dairy and Eggs,1.19,155,11,1.1,13,1.1,0,N,N,Vegetarian
+Gut&Guenstig 8x Eier aus Freilandhaltung,EggBox_8x,Dairy and Eggs,2.29,155,11,1.1,13,1.1,0,N,N,Vegetarian
+Gut&Guenstig Vanille-Schoko-Hoernchen,FrozenBox_IceCream_ChocolatePistachio,Frozen,1.99,285,12.8,27.3,3.6,38.3,0,Y,Y,Vegetarian
+NESTLE SMARTIES POP UP,FrozenBox_IceCream_Smarties,Frozen,3.49,211,7.5,26,2.7,30.5,0,Y,Y,Vegetarian
+Gut&Guenstig Vanille-Erdbeer-Hoernchen,FrozenBox_IceCream_VanillaStrawberry,Frozen,1.99,251,9.3,28,2.5,39,0,Y,Y,Vegetarian
+Gut&Guenstig Broccoli Gratin,FrozenBox_Gratin,Frozen,2.49,102,5.1,1.7,5.4,7.8,0,Y,Y,N
+Gut&Guenstig Bolognese Lasagne,FrozenBox_Lasagne,Frozen,1.89,149,6.9,2.7,6.2,14.7,0,Y,Y,N
+Gut&Guenstig Nudelauflauf Napoli,FrozenBox_Moussaka,Frozen,2.49,153,7.1,3.7,6.3,15,0,Y,Y,N
+Gut&Guenstig Cannelloni Frischkaese-Spinat,FrozenBox_Pastry_Feuillette,Frozen,1.99,201,12.3,2.7,7.4,14.5,0,Y,Y,N
+Gut&Guenstig Fettuccine,FrozenBox_Pastry_GalettesBlue,Frozen,1.25,152,6.5,2.1,5.9,16.9,0,Y,Y,Vegetarian
+Gut&Guenstig Huehnerfrikassee,FrozenBox_Pastry_GalettesRed,Frozen,3.79,116,4.7,0.6,6.7,11.2,0,Y,Y,N
+Gut&Guenstig Steakhousepfanne,FrozenPack_BrrrPurple,Frozen,3.49,131,5.4,0.4,5.6,13.7,0,N,Y,N
+Frosta Veggie Bratkartoffel Haehnchen Pfanne,FrozenPack_BrrrRed,Frozen,4.69,92,3.1,2.2,4.4,10.4,0,N,N,Vegan
+Frosta Gemuese Pfanne alla Toscana,FrozenPack_BrrrRed2,Frozen,3.49,41,1.9,3,1.5,3.3,0,N,N,Vegan
+ja! Pommes Frites,FrozenPack_Fries,Frozen,1.99,123,3.2,0.2,2.4,19.8,0,N,N,Vegan
+Gut&Guenstig Prinzessbohnen,FrozenPack_GreenBeans,Frozen,1.99,33,0.1,1,2,3.7,0,N,N,Vegan
+ja! Kroketten,FrozenPack_PotatoPops,Frozen,1.99,145,4.8,0.2,2.2,22,0,N,N,Vegan
+ja! Kartoffelpueree REWE,MashPotatoe,Frozen,1.69,350,1,2,8.5,73.3,0,Y,Y,Vegetarian
+Original Wagner Steinofen Pizza Schinken,Pizza_Black,Frozen,2.99,211,7.6,3.5,10.2,24.6,0,Y,Y,N
+Original Wagner Steinofen Pizza Chicken,Pizza_Green,Frozen,3.39,204,6.3,4.3,10.1,25.6,0,Y,Y,N
+Dr.Oetker Die Ofenfrische Pizza Salami,Pizza_Red,Frozen,3.69,230,8.5,3.2,9.5,28,0,Y,Y,N
+Herta Genuss Momente Grillschinken,BreadTopping_Ham,Meat and Fish,2.29,112,2.5,1,21,1,0,N,N,N
+Edeka Italia Prosciutto Crudo,BreadTopping_Prosciutto,Meat and Fish,2.89,209,9,0,32,0,0,N,N,N
+Gut&Guenstig Raeucherlachs,BreadTopping_Salmon,Meat and Fish,4.99,177,9.9,0,22,0,0,N,N,N
+REWE Bio Haehnchen,Chicken,Meat and Fish,9.19,198,13,0,19.2,1,0,N,N,N
+Coraya Surimi Sticks,CrabSticks,Meat and Fish,1.49,112,4.2,2.3,8.2,10,0,N,N,N
+Gut&Guenstig Haehnchenschenkel,MeatTray_ChickenWings,Meat and Fish,4.9,226,17,0.6,17.7,0.6,0,N,N,N
+Edeka Bio Hackfleisch gemischt,MeatTray_ChoppedBeef,Meat and Fish,6.69,252,20,0.1,18,0.1,0,N,N,N
+Meistermetzgerei Fries T-Bone Steak,MeatTray_PureBeef,Meat and Fish,7.99,146,6.4,0,25,0,0,N,N,N
+Meistermetzgerei Fries Kalbskotelett,MeatTray_Veal,Meat and Fish,12.29,146,7.8,0,19.1,0,0,N,N,N
+Deutschesee Sushi-Box AYAKA,Sushis_Large,Meat and Fish,9.99,153,3.6,3.8,5.3,24.3,0,N,N,N
+Deutschesee Sushi-Box MAKOTO,Sushis_Small,Meat and Fish,6.99,153,3.8,3.8,5.2,24.3,0,N,N,N
+Edeka Delverde Nudeln Penne Rigate,Pasta_Bag,Pasta and Rice,1.19,356,1.9,3.5,11.5,71.8,0,N,Y,Vegan
+Edeka Delverde Nudeln Penne Rigate,Pasta_Bag2,Pasta and Rice,1.19,356,1.9,3.5,11.5,71.8,0,N,Y,Vegan
+Edeka Zabler Hochzeit Nudeln Hoernle,Pasta_Box_Elbows,Pasta and Rice,1.89,363,3,1,13,71,0,N,Y,Vegan
+Edeka Barilla Nudeln Penne Rigate,Pasta_Box_Penne,Pasta and Rice,2.49,359,2,3.5,12.5,71.2,0,N,Y,Vegan
+ja! Spaghetti Rewe,Pasta_Box_Spaghetti,Pasta and Rice,0.79,350,1.2,3.2,12,71,0,N,Y,Vegan
+EDEKA Basmati-Reis,Rice_Blue,Pasta and Rice,2.59,356,0.8,0.2,8.5,78,0,N,N,Vegan
+Bens Original Express Langkorn- und Wildreis,Rice_Orange,Pasta and Rice,2.29,151,1.4,0.5,3.2,31,0,N,N,Vegan
+Ja! Kochbeutel-Reis,Rice_White,Pasta and Rice,1.69,348,0.6,0.2,7,78,0,N,N,Vegan
+Gut&Guenstig Creme Fraiche,Spread_CremeFraiche,Salty Spreads,0.99,294,30,3,2.4,3,0,Y,N,Vegetarian
+EDEKA Hummus natur,Spread_Houmous,Salty Spreads,1.79,369,32.6,1.1,6.2,11.3,0,N,N,Vegan
+Popp Brotaufstrich Thunfischsalat,Spread_Tuna,Salty Spreads,1.79,306,26.8,4,9.5,6.1,0,Y,N,N
+Chio Chips Red Paprika,Chips_Chipos,Snacks,1.99,520,33,2.7,6,50,0,N,Y,Vegan
+Chio Chips Red Paprika,Chips_Chipos2,Snacks,1.99,520,33,2.7,6,50,0,N,Y,Vegan
+Chio Tortillas Nacho Cheese,Chips_Covidos,Snacks,1.89,497,22,3.8,5.7,67,0,Y,Y,Vegan
+Chio Tortillas Nacho Cheese,Chips_Covidos2,Snacks,1.89,497,22,3.8,5.7,67,0,Y,Y,Vegan
+Gut&Guenstig Kartoffelchips Salz,Chips_Vins,Snacks,1.19,540,34,0.5,6,50.5,0,N,Y,Vegan
+Gut&Guenstig Kartoffelchips Salz,Chips_Vins2,Snacks,1.19,540,34,0.5,6,50.5,0,N,Y,Vegan
+Trolli Saure Gluehwuermchen,Candy_Bag_Blue,Snacks,1.19,335,0,46,4.3,78,0,N,N,N
+HARIBO Pico-Balla,Candy_Bag_Purple,Snacks,1.09,381,4.9,61,1.7,82,0,N,Y,Vegetarian
+merci Helle Vielfalt,ChocolateBox_Blue,Snacks,3.39,579,37.8,48.3,8.1,50.1,0,Y,Y,Vegetarian
+Kuestengold Waffelmischung Feine Vielfalt,ChocolateBox_YellowBlue,Snacks,2.89,545,32,36,4,59,0,Y,Y,Vegetarian
+EDEKA Cookie Vollmilch Mandel,Cookies_Brown,Snacks,1.79,519,28.6,33.1,7.5,56.5,0,Y,Y,Vegetarian
+Griesson Cookies Classic Minis,Cookies_Orange,Snacks,1.29,493,25,32,7,58,0,Y,Y,Vegetarian
+Apfel Granny Smith,Apple_Green,Fruit,0.46,52,0.2,13,0.3,13.8,0,N,N,Vegan
+Apfel Pink Lady,Apple_Red,Fruit,0.5,65,0.05,13.16,0.34,14.35,0,N,N,Vegan
+Bananen Wwf,Banana,Fruit,1.95,93,0.18,17.27,1.15,20.03,0,N,N,Vegan
+Bananen Wwf,Banana_4x,Fruit,7.8,93,0.18,17.27,1.15,20.03,0,N,N,Vegan
+SanLucar Clementine,Clementine,Fruit,0.5,50,0.3,9,0.7,9,0,N,N,Vegan
+Grapefruit Star Ruby,Grapefruit,Fruit,1.49,45,0.15,7.41,0.6,7.41,0,N,N,Vegan
+Zespri Kiwi,Kiwi,Fruit,0.49,62,0.63,8.68,1,9.12,0,N,N,Vegan
+SanLucar Zitrone,Lemon,Fruit,1.29,39,0.6,3.16,0.7,3.16,0,N,N,Vegan
+Edeka Mango,Mango,Fruit,2.79,62,0.45,12.19,0.6,12.45,0,N,N,Vegan
+Edeka Cantaloupe Melone,Melon,Fruit,3.99,57,0.1,12.4,0.9,12.4,0,N,N,Vegan
+Edeka Papaya,Papaya,Fruit,6.99,36,0.09,7.1,0.52,7.1,0,N,N,Vegan
+Rewe Birne,Pear,Fruit,0.96,58,0.29,10.37,0.47,12.37,0,N,N,Vegan
+SanLucar Ananas,Pineapple,Fruit,4.49,59,0.15,12.4,0.46,12.4,0,N,N,Vegan
+Edeka Wassermelonen kernarm,Watermelon,Fruit,6.38,39,0.2,8.29,0.6,8.29,0,N,N,Vegan
+Edeka Artischoke,Artichoke,Vegetables,1.99,43,1,0.2,2.4,2.6,0,N,N,Vegan
+Edeka Avocado,Avocado,Vegetables,0.99,138,12.5,3.55,1.37,3.55,0,N,N,Vegan
+DM Davert Bohnen Mix 1kg,Basket_BeanMix,Vegetables,6.88,81,0.5,1,4.9,10,0,N,N,Vegan
+EDEKA OREGANO ISRAEL 1kg,Basket_Blue,Vegetables,86,72,2,9.6,2.2,9.7,0,N,N,Vegan
+Rewe Glatte Petersilie 1kg,Basket_Green,Vegetables,24.75,50,0.4,0.9,4.4,7.4,0,N,N,Vegan
+Rewe Minze 1kg,Basket_Mint,Vegetables,39.6,50,0.7,5.25,3.8,5.3,0,N,N,Vegan
+Rewe Suntat Weisse Bohnen 1kg,Basket_WhiteBeans,Vegetables,5.89,65,1,4,6,13,0,N,N,Vegan
+Edeka Karotte,Carrot,Vegetables,0.28,25,0.2,2,1,4.8,0,N,N,Vegan
+Rewe Chili Jalapeno Gruen,ChilliPeppers_Green,Vegetables,1.49,40,0,4,1,8,0,N,N,Vegan
+REWE Bio Chili Mix,ChilliPeppers_Red,Vegetables,1.29,40,0,4,1,8,0,N,N,Vegan
+REWE Bio Chili Mix,ChilliPeppers_Yellow,Vegetables,1.29,40,0,4,1,8,0,N,N,Vegan
+Edeka Knoblauch,Garlic,Vegetables,0.46,145,0.12,8.5,6.05,28.41,0,N,N,Vegan
+Demeter Knoblauch weiss,Garlic_Strand,Vegetables,2.29,145,0.12,8.5,6.05,28.41,0,N,N,Vegan
+Edeka Steinchampignon,Mushroom,Vegetables,0.21,100,6.57,0.75,4.28,4.17,0,N,N,Vegan
+Edeka Zwiebel,Onion,Vegetables,0.25,30,0.25,4,1.18,4.92,0,N,N,Vegan
+Edeka Kartoffel,Potato,Vegetables,0.2,70,0.1,1,2,14.6,0,N,N,Vegan
+Edeka Bio-Kuerbis Hokkaido,Pumpkin,Vegetables,3.83,63,0.6,4.2,1.7,12.6,0,N,N,Vegan
+Rewe Butternut Speisekuerbis,Squash,Vegetables,3.99,44,0.1,2.2,1.1,8.3,0,N,N,Vegan
+Edeka Saveol Tomaten,Tomato,Vegetables,0.35,20,0.21,2.52,0.95,2.6,0,N,N,Vegan
+Edeka Zucchini,Zucchini,Vegetables,0.2,23,0.29,2.26,2.03,2.26,0,N,N,Vegan

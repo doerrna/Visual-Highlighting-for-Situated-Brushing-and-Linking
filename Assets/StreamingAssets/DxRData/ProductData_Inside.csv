@@ -1,0 +1,40 @@
+Product,Prefab name,Category,Price (EUR),Calories (kcal),Fat (g),Sugar (g),Protein (g),Carbohydrate (g),Alcohol (%),Lactose (Y/N),Gluten (Y/N),Vegan/Vegetarian/N
+Gut&Guenstig Choco Drink,ChocolatePowder,Baking,2.99,378,3.1,78,4.5,79.9,0,N,N,Vegan
+Belbake Weizenmehl Type 405,Flour_Red,Baking,0.79,341,1,0.4,10,69,0,N,Y,Vegan
+Suedzucker Feinster Ruebenzucker,Sugar_Bag_DaronRed,Baking,1.99,400,0,100,0,100,0,N,N,Vegan
+ja! Puderzucker Rewe,Sugar_Powder,Baking,0.49,400,0,100,0,100,0,N,N,Vegan
+Marmorkuchen Dr Oetker,Cake_BoxYellow,Bread and Bakery,2.99,464,25,30,5.6,56,0,Y,Y,Vegetarian
+Kelloggs Honey Loops,Cereals_HoneyBees,Breakfast,5,396,4.4,22,9.3,76,0,N,Y,Vegetarian
+Jacobs Kroenung Entkoffeiniert,Coffee_Blue,Breakfast,10,1,0,0.2,0.1,0.2,0,N,N,Vegan
+Imkerhonig Gut&Guenstig,Honey,Breakfast,2.69,302,0,75.1,0.04,75.1,0,N,N,Vegetarian
+EDEKA Feines Fruchtmousse Erdbeer,Jam,Breakfast,1.89,213,0.3,50.3,0.5,50.5,0,N,N,Vegan
+Gut&Guenstig Thunfisch ,TinCan_Blue_Small,Canned Food,1.29,107,0.8,0,25,0,0,N,N,N
+Gut&Guenstig Junge Erbsen extra fein,TinCan_Green_Large,Canned Food,0.99,72,0.5,3,5.5,8,0,N,N,Vegan
+Gut&Guenstig Rote Kidneybohnen,TinCan_Red_Medium,Canned Food,1.55,106,0.8,2.5,9.4,13,0,N,N,Vegan
+Ostmann Basilikum 6g,Bag_Organics,Condiments,3.79,244,4,1.7,23,10.1,0,N,N,Vegan
+Ostmann Petersilie 75g,Bag_Organics2,Condiments,3.79,301,1.9,23.9,23.2,36.7,0,N,N,Vegan
+Ostmann Schnittlauch 5g,Bag_Organics3,Condiments,3.6,353,5.9,60.9,11.4,61.5,0,N,N,Vegan
+Gut&Guenstig Hirtenkaese 45% Fett i. Tr. 250 g,Cheese_Gruyere,Dairy and Eggs,1.79,256,19.8,1,18,1,0,Y,N,Vegetarian
+Kerrygold Cheddar 48 % Fett,Cheese_Mimolette,Dairy and Eggs,2.99,392,50,0,26,0,0,Y,N,Vegetarian
+EDEKA Bio Mozzarella 45% Fett i. Tr.,Cheese_Mozzarella,Dairy and Eggs,1.35,246,18.5,1,18.9,1,0,Y,N,Vegetarian
+EDEKA Originale Grana Padano gerieben 32% Fett i. Tr.,Cheese_ParmigianoGreen,Dairy and Eggs,1.89,398,29,0,33,0,0,Y,N,Vegetarian
+NESTLE SMARTIES POP UP,FrozenBox_IceCream_Smarties,Frozen,3.49,211,7.5,26,2.7,30.5,0,Y,Y,Vegetarian
+Gut&Guenstig Vanille-Erdbeer-Hoernchen,FrozenBox_IceCream_VanillaStrawberry,Frozen,1.99,251,9.3,28,2.5,39,0,Y,Y,Vegetarian
+ja! Kartoffelpueree REWE,MashPotatoe,Frozen,1.69,350,1,2,8.5,73.3,0,Y,Y,Vegetarian
+Edeka Italia Prosciutto Crudo,BreadTopping_Prosciutto,Meat and Fish,2.89,209,9,0,32,0,0,N,N,N
+Gut&Guenstig Raeucherlachs,BreadTopping_Salmon,Meat and Fish,4.99,177,9.9,0,22,0,0,N,N,N
+Gut&Guenstig Haehnchenschenkel,MeatTray_ChickenWings,Meat and Fish,4.9,226,17,0.6,17.7,0.6,0,N,N,N
+Edeka Bio Hackfleisch gemischt,MeatTray_ChoppedBeef,Meat and Fish,6.69,252,20,0.1,18,0.1,0,N,N,N
+Meistermetzgerei Fries T-Bone Steak,MeatTray_PureBeef,Meat and Fish,7.99,146,6.4,0,25,0,0,N,N,N
+Edeka Delverde Nudeln Penne Rigate,Pasta_Bag,Pasta and Rice,1.19,356,1.9,3.5,11.5,71.8,0,N,Y,Vegan
+Edeka Barilla Nudeln Penne Rigate,Pasta_Box_Penne,Pasta and Rice,2.49,359,2,3.5,12.5,71.2,0,N,Y,Vegan
+ja! Spaghetti Rewe,Pasta_Box_Spaghetti,Pasta and Rice,0.79,350,1.2,3.2,12,69,0,N,Y,Vegan
+Popp Brotaufstrich Thunfischsalat,Spread_Tuna,Salty Spreads,1.79,306,26.8,4,9.5,6.1,0,Y,N,N
+Gut&Guenstig Kartoffelchips Salz,Chips_Vins,Snacks,1.19,540,34,0.5,6,50.5,0,N,Y,Vegan
+Trolli Saure Gluehwuermchen,Candy_Bag_Blue,Snacks,1.19,335,0,46,4.3,78,0,N,N,N
+HARIBO Pico-Balla,Candy_Bag_Purple,Snacks,1.09,381,4.9,61,1.7,82,0,N,Y,Vegetarian
+Apfel Granny Smith,Apple_Green,Fruit,0.46,52,0.2,12.5,0.3,13.8,0,N,N,Vegan
+Bananen Wwf,Banana,Fruit,7.8,93,0.18,17.27,1.15,20.03,0,N,N,Vegan
+SanLucar Clementine,Clementine,Fruit,0.5,50,0.3,9,0.7,9,0,N,N,Vegan
+Zespri Kiwi,Kiwi,Fruit,0.49,62,0.63,8.68,1,9.12,0,N,N,Vegan
+Edeka Papaya,Papaya,Fruit,9.1,36,0.09,7.1,0.52,7.1,0,N,N,Vegan

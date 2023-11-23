@@ -1,0 +1,12 @@
+﻿Product,Prefab name,Category,Price (EUR),Calories (kcal),Fat (g),Sugar (g),Protein (g),Carbohydrate (g),Alcohol (%),Lactose (Y/N),Gluten (Y/N),Vegan/Vegetarian/N
+Sprite,Soda_Cans_ZapSoda,Beverages Nonalcoholic,7.14,37,0,9.1,0,9.1,0,N,N,Vegan
+Orangina Rouge,Soda_Bottle_JusTsistu,Beverages Nonalcoholic,1.3,41,0,9.7,0,9.9,0,N,N,Vegan
+Coca-Cola,Soda_Bottle_Cola,Beverages Nonalcoholic,1.11,42,0,10.6,0,10.6,0,N,N,Vegan
+Imkerhonig Gut&Guenstig,Honey,Breakfast,2.69,302,0,75.1,0.04,75.1,0,N,N,Vegetarian
+Jacobs Kroenung Kraeftig,Coffee_Black,Breakfast,9.7,1,0,0.1,0.2,0.1,0,N,N,Vegan
+Nutella,ChocolateSpread_White,Breakfast,4.79,539,30.9,56.3,6.3,57.9,0,Y,N,Vegetarian
+Nestle Nesquik Knusperfruehstueck,Cereals_Chokipik,Breakfast,5.34,113,2.6,6.7,0.8,22.6,0,N,Y,Vegetarian
+Gut&Guenstig Thunfisch,TinCan_Blue_Small,Canned Food,1.29,107,0.8,0,25,0,0,N,N,N
+Gut&Guenstig Junge Erbsen extra fein,TinCan_Green_Large,Canned Food,0.99,72,0.5,3,5.5,8,0,N,N,Vegan
+Gut&Guenstig Rote Kidneybohnen,TinCan_Red_Medium,Canned Food,1.55,106,0.8,2.5,9.4,13,0,N,N,Vegan
+Grand Marnier Cuvee Louis Alexandre Orangenlikoer,Alcohol_Cognac,Beverages Alcoholic,45.99,318,0,28.3,0,28.3,40,N,N,Vegan

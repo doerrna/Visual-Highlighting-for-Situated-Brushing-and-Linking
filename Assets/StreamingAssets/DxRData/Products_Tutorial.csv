@@ -1,0 +1,5 @@
+﻿Product,Prefab name,Category,Price (EUR),Calories (kcal),Fat (g),Sugar (g),Protein (g),Carbohydrate (g),Alcohol (%),Lactose (Y/N),Gluten (Y/N),Vegan/Vegetarian/N
+Dr.Oetker Die Ofenfrische Pizza Salami,Pizza_Red,Frozen,3.69,230,8.5,3.2,9.5,28,0,Y,Y,N
+ja! Kartoffelpueree REWE,MashPotatoe,Frozen,1.69,350,1,2,8.5,73.3,0,Y,Y,Vegetarian
+ja! Kroketten,FrozenPack_PotatoPops,Frozen,1.99,145,4.8,0.2,2.2,22,0,N,N,Vegan
+Gut&Guenstig Broccoli Gratin,FrozenBox_Gratin,Frozen,2.49,102,5.1,1.7,5.4,7.8,0,Y,Y,N

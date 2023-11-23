@@ -1,0 +1,25 @@
+Type,FOV,ID,Question,Answer,Dimension1,Direction1,Value1,Dimension2,Direction2,Value2
+Single,In,QS1,Select the product that has highest fat and no sugar,Cheese_Mimolette,Fat (g),highest,50,Sugar (g),lowest,0
+Single,In,QS2,Select the product that has highest carbohydrate and is vegetarian,Candy_Bag_Purple,Carbohydrate (g),highest,82,Vegan/Vegetarian/N,,Vegetarian
+Single,In,QS3,Select the product that has highest protein and less than 10 g fat,BreadTopping_Prosciutto,Protein (g),highest,32,Fat (g),less,10
+Single,In,QS4,Select the product that has highest protein and costs less than 2 EUR,Cheese_ParmigianoGreen,Protein (g),highest,33,Price (EUR),less,2
+Single,Out,QS5,Select the product that has highest calories and no protein,Oil_Sunflower,Calories (kcal),highest,830,Protein (g),lowest,0
+Single,Out,QS6,Select the product that has no sugar and highest alcohol,Alcohol_WhiskySquare,Sugar (g),lowest,0,Alcohol (%),highest,40
+Single,Out,QS7,Select the product that is most expensive and has less than 80 kcal calories,Basket_Blue,Price (EUR),highest,86,Calories (kcal),less,80
+Single,Out,QS8,Select the product that has highest calories and is vegetarian,Butter,Calories (kcal),highest,748,Vegan/Vegetarian/N,,Vegetarian
+Multiple,In,QM1,Select all products that cost less than 10 EUR and have more than 24 g protein,MeatTray_PureBeef;TinCan_Blue_Small;Cheese_Mimolette;Cheese_ParmigianoGreen;BreadTopping_Prosciutto,Price (EUR),less,10,Protein (g),more,24
+Multiple,In,QM2,Select all products that have more than 50 g sugar and are vegan,Jam;Bag_Organics3;ChocolatePowder;Sugar_Powder;Sugar_Bag_DaronRed,Sugar (g),more,50,Vegan/Vegetarian/N,,Vegan
+Multiple,In,QM3,Select all products that have more than 70 g carbohydrate and have gluten,Candy_Bag_Purple;Cereals_HoneyBees;MashPotatoe;Pasta_Bag;Pasta_Box_Penne,Carbohydrate (g),more,70,Gluten (Y/N),,Y
+Multiple,In,QM4,Select all products that have more than 22.5 g protein and less than 9.5 g fat,BreadTopping_Prosciutto;MeatTray_PureBeef;Bag_Organics;Bag_Organics2;TinCan_Blue_Small,Protein (g),more,22.5,Fat (g),less,9.5
+Multiple,Out,QM5,Select all products that have less than 2 g sugar and more than 530 kcal calories,Sauce_Mayonnaise;Oil_Sunflower;Oil_Olive;Chips_Vins;Butter,Sugar (g),less,2,Calories (kcal),more,530
+Multiple,Out,QM6,Select all products that have less than 3 g protein and have lactose,Butter;Spread_CremeFraiche;Yoghurt_Pink;FrozenBox_IceCream_VanillaStrawberry;FrozenBox_IceCream_Smarties,Protein (g),less,3,Lactose (Y/N),,Y
+Multiple,Out,QM7,Select all products that cost more than 9 EUR and have less than 50 kcal calories,Papaya;Coffee_Blue;BeerKeg_Blue;BeerKeg_Blond;Basket_Mint,Price (EUR),more,9,Calories (kcal),less,50
+Multiple,Out,QM8,Select all products that have more than 13 g sugar and less than 35 g carbohydrate,Yoghurt_Pink;Banana;Sauce_Ketchup;Alcohol_Cognac;FrozenBox_IceCream_Smarties,Sugar (g),more,13,Carbohydrate (g),less,35
+Hypothesis,In,QH1,The top-most shelf does not contain any product that has less than 25 g carbohydrate and costs more than 2 EUR,Yes,Carbohydrate (g),less,25,Price (EUR),more,2
+Hypothesis,In,QH2,Products that have less than 15 g fat and less than 240 kcal calories are distributed only in the left-most and center-left shelves,No,Fat (g),less,15,Calories (kcal),less,240
+Hypothesis,In,QH3,The bottom-most shelf does not contain any product that has less than 10 g protein and more than 36 g sugar,Yes,Protein (g),less,10,Sugar (g),more,36
+Hypothesis,In,QH4,Vegan products that contain more than 51 g carbohydrate are distributed only in the center-left and center-right shelves,No,Carbohydrate (g),more,51,Vegan/Vegetarian/N,,Vegan
+Hypothesis,Out,QH5,Vegan products that have more than 10 g fat are distributed only in the top-most and center-top shelves,Yes,Fat (g),more,10,Vegan/Vegetarian/N,,Vegan
+Hypothesis,Out,QH6,Products that have less than 40 g carbohydrate and have gluten are distributed only in the bottom-most shelf,No,Carbohydrate (g),less,40,Gluten (Y/N),,Y
+Hypothesis,Out,QH7,Products that have less than 20 g fat and have lactose are distributed only in the bottom-most and center-bottom shelves,Yes,Fat (g),less,20,Lactose (Y/N),,Y
+Hypothesis,Out,QH8,Products that have more than 29 g fat and less than 7 g protein are distributed only in the left-most and right-most shelves,No,Fat (g),more,29,Protein (g),less,7
